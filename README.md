@@ -1,11 +1,6 @@
 # Sign-Language-Recognition-For-Mute-And-Deaf
 
-Developed an American Sign Language Recognition System for Mute and Deaf that accurately recognizes the 26 alphabets. Utilizing Python, OpenCV, and Google's Mediapipe library for hand landmark detection, I was able to capture precise hand movements. The system leverages Matplotlib for data visualization and NumPy for numerical computations. By implementing a Random Forest Classifier from Scikit-learn, I achieved a classification accuracy where 100% of the samples were correctly identified. This project showcases the integration of advanced machine learning techniques and computer vision to create an effective communication tool for the mute and deaf community.
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediapipe.readthedocs.io%2Fen%2Flatest%2Fsolutions%2Fhands.html&psig=AOvVaw3ep-mgmgOB7wMGAKGjqtUQ&ust=1717407434437000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjmprLPvIYDFQAAAAAdAAAAABAE
-" alt="Sign Language Recognition System">
-
-![Mediapipe Hand Detection](https://mediapipe.readthedocs.io/en/latest/_images/hand_landmarks.png)
+An American Sign Language Recognition System has been developed to accurately interpret the 26 alphabets, benefiting individuals who are mute or deaf. Leveraging Python, OpenCV, and Google's Mediapipe library for hand landmark detection, precise hand movements are captured. Matplotlib facilitates data visualization, while NumPy handles numerical computations. Through the integration of a Random Forest Classifier from Scikit-learn, a classification accuracy of 100% is achieved, ensuring correct identification of all samples. This project exemplifies the fusion of advanced machine learning techniques and computer vision to create a powerful communication tool for the mute and deaf community.
 
 
 ## Features
