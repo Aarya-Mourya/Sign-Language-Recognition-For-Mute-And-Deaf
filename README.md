@@ -1,10 +1,13 @@
 # Sign-Language-Recognition-For-Mute-And-Deaf
 
-
+######
 An American Sign Language Recognition System has been developed to accurately interpret the 26 alphabets, benefiting individuals who are mute or deaf. Leveraging Python, OpenCV, and Google's Mediapipe library for hand landmark detection, precise hand movements are captured. Matplotlib facilitates data visualization, while NumPy handles numerical computations. Through the integration of a Random Forest Classifier from Scikit-learn, a classification accuracy of 100% is achieved, ensuring correct identification of all samples. This project exemplifies the fusion of advanced machine learning techniques and computer vision to create a powerful communication tool for the mute and deaf community.
+
+
 ---
 <img src="https://mediapipe.dev/images/mobile/hand_landmarks.png" alt="Hand Landmarks">
 ---
+
 
 ## Features
 
