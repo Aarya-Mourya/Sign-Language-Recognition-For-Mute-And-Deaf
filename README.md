@@ -6,7 +6,6 @@ An American Sign Language Recognition System has been developed to accurately in
 
 ---
 <img src="https://mediapipe.dev/images/mobile/hand_landmarks.png" alt="Hand Landmarks">
----
 
 
 ## Features
