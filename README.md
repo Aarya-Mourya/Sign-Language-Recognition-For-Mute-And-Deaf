@@ -19,7 +19,7 @@ An American Sign Language Recognition System has been developed to accurately in
 - **Feature Extraction**: Hand landmarks captured by Mediapipe are processed to extract relevant features for accurate classification.
 
 #### 3. User-Friendly Interface
-- **Live Feedback**: Displays the recognized alphabet on the screen in real-time, providing immediate feedback to the user.
+- **Live Feedback**: Displays the recognized alphabet on the screen in real-time.
 - **Visualization Tools**: Utilizes Matplotlib to visualize hand landmarks and recognition results, aiding in better understanding and debugging of the system.
 
 #### 4. Data Handling and Processing
